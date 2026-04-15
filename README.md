@@ -6,19 +6,13 @@
   <b>ADS Student | Software Development Learner | tech-focused</b>
 </p>
 
----
-
 ## 🎯 GOALS
-
 - 🚀 Become a Back-end developer with a focus on Cloud technologies  
 - 💻 Learn programming and continuously improve my skills  
 - 🛠️ Build practical projects to gain real experience  
 - 🌐 Get my first opportunity in the tech industry  
 
----
-
 ## 📫 GET IN TOUCH
-
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherm4andrade/)
@@ -26,8 +20,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guidradetech)
 
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guidradetech&theme=dark&hide_border=true&background=000000" />
