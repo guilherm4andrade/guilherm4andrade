@@ -11,3 +11,18 @@ Me tornar desenvolvedor Back-end com foco em Cloud
 Aprender programação e evoluir constantemente
 Construir projetos práticos para ganhar experiência
 Conseguir minha primeira oportunidade na área de tecnologia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/guidradetech/gitrepo/output/snake.svg" alt="Snake animation" />
