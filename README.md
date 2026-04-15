@@ -6,13 +6,13 @@
   <b>ADS Student | Software Development Learner | tech-focused</b>
 </p>
 
-## 🎯 GOALS
+## 🎯GOALS
 - 🚀 Become a backend developer focused on cloud technologies  
 - 💻 Learn programming and keep improving my skills  
 - 🛠️ Build real projects to gain hands-on experience  
 - 🌐 Land my first opportunity in the tech industry    
 
-## 📫 GET IN TOUCH
+## 📫GET IN TOUCH
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherm4andrade/)
