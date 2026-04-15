@@ -1,5 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U2b3d5d2F2b2N0b3J5aWJ6dXJ2eXh1b2V2dW5yY2Z0d2V5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yhXPFygSaOuzmnq8tF/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE" />
 </p>
 
 <p align="center">
@@ -30,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guidradetech&theme=dark&hide_border=true&background=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guidradetech&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
