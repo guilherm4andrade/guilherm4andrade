@@ -1,4 +1,4 @@
-# Hi 👋, I'm Guilherme Andrade
+# Welcome to my GitHub profile
 
  **ADS STUDENT | TECH FOCUSED**  
 
