@@ -1,5 +1,5 @@
 <h1 align="center">
-  **Helloooo Helloo World!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  Helloooo Helloo World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1> 
 <p align="center">
   <b>ADS Student | Software Development Learner | tech-focused</b>
@@ -8,7 +8,6 @@
 ---
 
 ## 🎯 GOALS
-
 - 🚀 Become a Back-end developer with a focus on Cloud technologies  
 - 💻 Learn programming and continuously improve my skills  
 - 🛠️ Build practical projects to gain real experience  
@@ -17,7 +16,6 @@
 ---
 
 ## 📫 GET IN TOUCH
-
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherm4andrade/)
