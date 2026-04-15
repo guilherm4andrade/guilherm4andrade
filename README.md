@@ -22,7 +22,7 @@ Conseguir minha primeira oportunidade na área de tecnologia
 
 --
 
-##  GitHub Stats
+## GitHub Stats
 
 ##  Philosophy
 Começando pequeno, mas pensando grande.
