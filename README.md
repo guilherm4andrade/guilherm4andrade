@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <bEstudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Development WEB | tech-focused
-</b>
+  <b>Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Desenvolvimento WEB | tech-focused</b>
 </p>
 
 ## 🎯GOALS
