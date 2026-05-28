@@ -1,5 +1,5 @@
 <h1 align="center">
-  Bem Vindo. Prazer em Conhecer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  Seja Muito Bem Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## 🎯GOALS
 - 🚀 Become a backend developer focused on cloud technologies  
-- 💻 Learn programming and keep improving my skills  
+- 💻 Learn programming and keep improving my skills   
 - 🛠️ Build real projects to gain hands-on experience  
 - 🌐 Land my first opportunity in the tech industry    
 
