@@ -6,9 +6,7 @@
   <b> Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação e Desenvolvimento WEB </b>
 </p>
 
-Olá, meu nome é Guilherme Andrade,tenho 18 anos é um prazer te receber aqui. O convido para conhecer sobre quem eu sou e onde quero chegar.
-Sou graduando pela [Estácio](https://estacio.br) no 1 semestre em inicio de qualificação profissional.
-Criei esse repositorio para documentar meus estudos e evolução na área da tecnologia. Meu objetivo de longo prazo é atual em back-and ou full-stack
+Olá, meu nome é Guilherme Andrade, tenho 18 anos e é um prazer te receber aqui. Convido você a conhecer quem eu sou e onde quero chegar.Sou graduando pela **[Estácio](https://estacio.br)** no 1º semestre, em início de qualificação profissional. Criei este repositório para documentar meus estudos e minha evolução na área da tecnologia. Meu objetivo de longo prazo é atuar em Backend ou Full Stack.Estou focado em aprender os fundamentos passo a passo para construir uma base sólida em programação, sempre buscando boas práticas e código limpo para solucionar problemas reais.
 
 
 
