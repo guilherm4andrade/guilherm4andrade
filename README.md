@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <b>ADS Student | Software Development Learner | tech-focused</b>
+  <b>Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Development WEB | tech-focused
+</b>
 </p>
 
 ## 🎯GOALS
