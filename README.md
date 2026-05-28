@@ -3,7 +3,7 @@
 </h1>
 
  <p align="center">
-  <b> Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação e Desenvolvimento WEB </b>
+  <b> Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Desenvolvimento WEB </b>
 </p>
 
 Olá, meu nome é Guilherme Andrade, tenho 18 anos e é um prazer te receber aqui. Convido você a conhecer quem eu sou e onde quero chegar. Sou graduando pela **[Estácio](https://estacio.br)** no 1º semestre, em início de qualificação profissional. 
