@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Development WEB | tech-focused
+  <bEstudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Development WEB | tech-focused
 </b>
 </p>
 
