@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Desenvolvimento WEB | tech-focused</b>
+  <b>Ads Student for **[Estácio](https://github.com/estacio-alunos)**</b>
 </p>
 
 ## 🎯GOALS
