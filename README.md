@@ -2,7 +2,10 @@
   Seja Muito Bem Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1>
 
- **Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação e Desenvolvimento WEB**  
+ <p align="center">
+  <b> **Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação e Desenvolvimento WEB** </b>
+</p>
+
 
 Olá, meu nome é Guilherme Andrade,tenho 18 anos é um prazer te receber aqui. O convido para conhecer sobre quem eu sou e onde quero chegar.
 
