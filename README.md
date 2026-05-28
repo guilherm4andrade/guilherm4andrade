@@ -1,5 +1,5 @@
 <h1 align="center">
-  Boas Vindas ao Meu Perfil, é um Prazer te Conhecer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  Bem Vindo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1>
 
 <p align="center">
