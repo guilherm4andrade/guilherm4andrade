@@ -1,12 +1,4 @@
-<h1 align="center">
-  Seja Muito Bem Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-</h1>
 
-<p align="center">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Desenvolvimento WEB</b>
-</p>
-
-Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te receber aqui. Sou graduando pela **[Estácio](https://estacio.br)** no 1º semestre, em início de qualificação profissional.
 <h1 align="center">
   Seja Muito Bem Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1>
