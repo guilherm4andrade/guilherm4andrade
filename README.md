@@ -8,7 +8,7 @@
 
 Olá, meu nome é Guilherme Andrade, tenho 18 anos e é um prazer te receber aqui. Convido você a conhecer quem eu sou e onde quero chegar. Sou graduando pela **[Estácio](https://estacio.br)** no 1º semestre, em início de qualificação profissional. 
 
-Criei este repositório para documentar meus estudos e minha evolução na área da tecnologia. Meu objetivo de longo prazo é atuar em Backend ou Full Stack. Estou focado em aprender os fundamentos passo a passo para construir uma base sólida em programação, sempre buscando boas práticas e código limpo para solucionar problemas reais.
+Criei este repositório para documentar meus estudos e minha evolução na área da tecnologia. Meu objetivo de longo prazo é atuar em Back-End ou Full=Stack. Estou focado em aprender os fundamentos passo a passo para construir uma base sólida em programação, sempre buscando boas práticas e código limpo para solucionar problemas reais.
 
 
 
