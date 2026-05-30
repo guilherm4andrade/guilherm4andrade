@@ -40,25 +40,6 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 </tr>
 </table>
 
-## 🌐 Network
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/guilherm4andrade/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:guilhermecontact.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/guilherm4andrade">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guilherm4andrade/guilherm4andrade/output/snake-dark.svg" />
-</p>
-<table>
-<tr>
-<td width="55%" valign="top">
 
 <h2>🧠 What I do</h2>
 
