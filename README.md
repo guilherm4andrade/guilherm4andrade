@@ -6,10 +6,10 @@
   <b>Software Development Learn | Back-End</b>
 </p>
 
-<p align="center">
-É UM PRAZER DE RECEBER AQUI<br><br>
   
-Sou o **Guilherme Andrade**, tenho **18 anos** e estou graduando em **Análise e Desenvolvimento de Sistemas** pela universidade **[Estácio](https://estacio.br)**. Me encontro no 1º semestre, em início de **qualificação profissional**. Criei este repositório para **documentar** meus estudos e minha **evolução** ao longo do tempo. Estou focado em lógica de programação e aplicações Web, construindo uma base sólida em programação, sempre buscando boas práticas e código limpo para a solução de **problemas reais**.
+É um prazer te recebert aqui. Sou o **Guilherme Andrade**, tenho **18 anos** e estou graduando em **Análise e Desenvolvimento de Sistemas** pela universidade **[Estácio](https://estacio.br)**. Me encontro no 1º semestre, em início de **qualificação profissional**. 
+
+Criei este repositório para **documentar** meus estudos e minha **evolução** ao longo do tempo. Estou focado em lógica de programação e aplicações Web, construindo uma base sólida em programação, sempre buscando boas práticas e código limpo para a solução de **problemas reais**.
 
 
 <p align="center">
@@ -26,7 +26,7 @@ Sou o **Guilherme Andrade**, tenho **18 anos** e estou graduando em **Análise e
 <tr>
 <td width="55%" valign="top">
 
-## Goals 
+## Objetivos
 
 📚 Fortalecer meus conhecimentos em lógica de programação<br>
 🌐 Aprender e evoluir no desenvolvimento Web<br>
