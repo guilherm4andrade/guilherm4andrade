@@ -8,7 +8,7 @@
 
 É um prazer te receber aqui. Sou o Guilherme Andrade, tenho 18 anos e estou graduando em curso superior de tecnologia pela universidade **[Estácio](https://estacio.br)**. Me encontro no 1º semestre, em início de qualificação profissional. 
 
-Criei este repositório para **documentar** meus estudos e minha **evolução** na área da tecnologia. Estou focado em aprender os fundamentos passo a passo para construir uma base sólida em programação, sempre buscando boas práticas e código limpo para solucionar **problemas reais**.
+Criei este repositório para **documentar** meus estudos e minha **evolução** ao longo do termpo. Focado em lógica de programação e aplicações WEB construindo uma base sólida em programação, sempre buscando boas práticas e código limpo para solucionar **problemas reais**.
 
 <p align="center">
   <b> Atualmente Estudando</b>
