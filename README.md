@@ -27,7 +27,7 @@ Criei este repositório para **documentar** meus estudos e minha **evolução** 
 <td width="55%" valign="top">
 
 <h1 align="center">
-  𝙈𝙚𝙩𝙖𝙨
+  𝑂𝐵𝐽𝐸𝑇𝐼𝑉𝑂𝑆
 </h1>
   
 
