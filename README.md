@@ -13,17 +13,13 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 <td width="55%" valign="top">
 
 
-<h2>🧠 Goals</h2>
+<h2>🎯 Goals/h2>
 
 <ul>
-  <li>🏗️ SaaS & High-scale systems</li>
-  <li>⚡ Performance optimization</li>
-  <li>🧩 Clean architecture & system design</li>
-  <li>🔐 Secure APIs & authentication</li>
-  <li>💳 Payments, subscriptions & business logic</li>
-  <li>🤖 Automation & integrations</li>
-  <li>📊 Dashboards & analytics</li>
-  <li>🎓 Teaching & mentoring developers</li>
+  <li>📚 Evoluir constantemente</li>
+  <li>💻 Dominar os fundamentos da programação</li>
+  <li>🚀 Construir projetos com impacto real</li>
+  <li>💼 Conquistar minha primeira oportunidade na área</li>
 </ul>
 
 </td>
