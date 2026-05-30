@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome Brother <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  Boas vindas ao meu perfil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1>
 
 <p align="center">
@@ -26,7 +26,7 @@ Criei este repositório para **documentar** meus estudos e minha **evolução** 
 <tr>
 <td width="55%" valign="top">
 
-##                 𝙊𝘽𝙅𝙀𝙏𝙄𝙑𝙊𝙎
+## Metas
 
 📚 Fortalecer meus conhecimentos em lógica de programação<br>
 🌐 Aprender e evoluir no desenvolvimento Web<br>
