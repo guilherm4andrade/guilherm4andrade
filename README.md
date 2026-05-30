@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Desenvolvimento WEB</b>
+  <b>Student of Systems Analysis and Development | Programming Logic | Web Development</b>
 </p>
 
 Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te receber aqui. Sou graduando pela **[Estácio](https://estacio.br)** no 1º semestre, em início de qualificação profissional. Criei este repositório para **documentar** meus estudos e minha **evolução** na área da tecnologia. Meu objetivo de longo prazo é atuar em **Back-End** ou **Full-Stack**. Estou focado em aprender os fundamentos passo a passo para construir uma base sólida em programação, sempre buscando boas práticas e código limpo para solucionar **problemas reais**.
@@ -13,7 +13,7 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 <td width="55%" valign="top">
 
 
-<h2>🧠 What I do</h2>
+<h2>🧠 Goals</h2>
 
 <ul>
   <li>🏗️ SaaS & High-scale systems</li>
