@@ -26,7 +26,7 @@ Criei este repositório para **documentar** meus estudos e minha **evolução** 
 <tr>
 <td width="55%" valign="top">
 
-## Objetivos
+## OBJETIVOS
 
 📚 Fortalecer meus conhecimentos em lógica de programação<br>
 🌐 Aprender e evoluir no desenvolvimento Web<br>
