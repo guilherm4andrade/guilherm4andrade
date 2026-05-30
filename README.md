@@ -34,7 +34,3 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guilherm4andrade/guilherm4andrade/output/snake-dark.svg" />
-</p>
