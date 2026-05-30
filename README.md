@@ -13,7 +13,6 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 <td width="55%" valign="top">
 
 ## Goals
-
 <ul>
   <li>📚 Evoluir constantemente como desenvolvedor</li>
   <li>💻 Dominar os fundamentos do Back-End</li>
