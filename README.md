@@ -12,15 +12,18 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 <tr>
 <td width="55%" valign="top">
 
-## Goals
-<ul>
-  <li>📚 Evoluir constantemente como desenvolvedor</li>
-  <li>💻 Dominar os fundamentos do Back-End</li>
-  <li>🌐 Desenvolver aplicações Web completas</li>
-  <li>🚀 Construir projetos com impacto real</li>
-  <li>💼 Conquistar minha primeira oportunidade na área</li>
-</ul>
+## Goals 
 
+<ul>
+  <li>📚 Fortalecer meus conhecimentos em lógica de programação</li>
+  <li>🌐 Aprender e evoluir no desenvolvimento Web</li>
+  <li>💻 Praticar programação através de projetos pessoais</li>
+  <li>🗄️ Estudar bancos de dados e integração com aplicações</li>
+  <li>⚙️ Desenvolver soluções utilizando boas práticas de código</li>
+  <li>🚀 Construir um portfólio que reflita minha evolução</li>
+  <li>🤝 Aprender com a comunidade e compartilhar conhecimento</li>
+  <li>💼 Conquistar minha primeira oportunidade na área de tecnologia</li>
+</ul>
 </td>
 
 <td width="45%" align="center">
