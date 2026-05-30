@@ -2,8 +2,6 @@
   Seja Muito Bem Vindo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1>
 
----
-
 <p align="center">
   <b>Estudante de Análise e Desenvolvimento de Sistemas | Lógica de Programação | Desenvolvimento WEB</b>
 </p>
@@ -14,7 +12,6 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 <tr>
 <td width="55%" valign="top">
 
----
 
 <h2>🧠 What I do</h2>
 
@@ -41,7 +38,6 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 </td>
 </tr>
 </table>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/guilherm4andrade/guilherm4andrade/output/snake-dark.svg" />
