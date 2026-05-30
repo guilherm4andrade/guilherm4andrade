@@ -8,8 +8,7 @@
 
 <p align="center">
 É um prazer te receber aqui.<br><br>
-
-É um prazer te receber aqui. Sou o **Guilherme Andrade**, tenho **18 anos** e estou graduando em **Análise e Desenvolvimento de Sistemas** pela universidade **[Estácio](https://estacio.br)**. Me encontro no 1º semestre, em início de **qualificação profissional**. Criei este repositório para **documentar** meus estudos e minha **evolução** ao longo do tempo. Estou focado em lógica de programação e aplicações Web, construindo uma base sólida em programação, sempre buscando boas práticas e código limpo para a solução de **problemas reais**.
+Sou o **Guilherme Andrade**, tenho **18 anos** e estou graduando em **Análise e Desenvolvimento de Sistemas** pela universidade **[Estácio](https://estacio.br)**. Me encontro no 1º semestre, em início de **qualificação profissional**. Criei este repositório para **documentar** meus estudos e minha **evolução** ao longo do tempo. Estou focado em lógica de programação e aplicações Web, construindo uma base sólida em programação, sempre buscando boas práticas e código limpo para a solução de **problemas reais**.
 
 
 <p align="center">
