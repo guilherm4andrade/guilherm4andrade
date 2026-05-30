@@ -26,7 +26,10 @@ Criei este repositório para **documentar** meus estudos e minha **evolução** 
 <tr>
 <td width="55%" valign="top">
 
-## Metas
+<h1 align="center">
+  𝙈𝙚𝙩𝙖𝙨
+</h1>
+  
 
 📚 Fortalecer meus conhecimentos em lógica de programação<br>
 🌐 Aprender e evoluir no desenvolvimento Web<br>
