@@ -9,20 +9,13 @@
 <p align="center">
 É um prazer te receber aqui.<br><br>
 
-Sou <b>Guilherme Andrade</b>, tenho <b>18 anos</b> e sou estudante de
-<b>Análise e Desenvolvimento de Sistemas</b> pela
-<a href="https://estacio.br">Estácio</a>.<br>
+<div align="center">
 
-Atualmente estou no <b>1º semestre</b>, iniciando minha jornada de
-qualificação profissional na área de tecnologia.<br><br>
+É um prazer te receber aqui. Sou o **Guilherme Andrade**, tenho **18 anos** e estou graduando em **Análise e Desenvolvimento de Sistemas** pela universidade **[Estácio](https://estacio.br)**. Me encontro no 1º semestre, em início de **qualificação profissional**.
 
-Criei este repositório para documentar minha evolução,
-compartilhar projetos e registrar meus estudos ao longo dessa trajetória.<br>
+Criei este repositório para **documentar** meus estudos e minha **evolução** ao longo do tempo. Estou focado em lógica de programação e aplicações Web, construindo uma base sólida em programação, sempre buscando boas práticas e código limpo para a solução de **problemas reais**.
 
-Estou focado em lógica de programação, desenvolvimento Web e na construção
-de uma base sólida, sempre buscando boas práticas, código limpo e soluções
-para problemas reais.
-</p>
+</div>
 
 <p align="center">
   <b> Atualmente Estudando</b>
