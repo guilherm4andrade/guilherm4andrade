@@ -12,7 +12,7 @@ Olá, meu nome é **Guilherme Andrade**, tenho **18 anos** e é um prazer te rec
 <tr>
 <td width="55%" valign="top">
 
-<h2 align="center"> GOALS </h2>
+## Goals
 
 <ul>
   <li>📚 Evoluir constantemente como desenvolvedor</li>
